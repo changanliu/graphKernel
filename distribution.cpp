@@ -182,8 +182,8 @@ int main() {
     int L = 100;            
     double alpha = 0.15;   
     int T = 1000;           
-    long W_G = 10000;      
-    long W_H = 10000;      
+    long W_G = 50000;      
+    long W_H = 50000;      
     int l_G = 3;           
     int l_H = 3;           
 
